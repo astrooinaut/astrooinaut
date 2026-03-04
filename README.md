@@ -1,8 +1,8 @@
 ## Hi, I'm Donavan
 
-- PhD student at North-West University, South Africa <br/>
-- I am interested in using machine learning methods to solve research questions<br/>
-- My future goals are to improve my python coding skills <br/>
+- PhD holder <br/>
+- ML enthusiast<br/>
+- I'm here to improve my python skills <br/>
 
 
 ## 🌐 Socials:
