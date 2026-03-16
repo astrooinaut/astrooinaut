@@ -1,8 +1,6 @@
 ## Hi, I'm Donavan
 
-- PhD holder <br/>
-- ML enthusiast<br/>
-- I'm here to improve my python skills <br/>
+- I bridge the gap between cardiovascular physiology and data science by using ML and Causal Inference in cardiac pathophysiology. I am eager to apply ML approaches to identify arteriosclerosis-induced structural and functional cardiac changes from 2D echocardiography <br/>
 
 
 ## 🌐 Socials:
